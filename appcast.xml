@@ -3,6 +3,14 @@
     <channel>
         <title>koach</title>
         <item>
+            <title>0.2</title>
+            <pubDate>Sat, 17 Feb 2024 18:31:00 +0530</pubDate>
+            <sparkle:version>3</sparkle:version>
+            <sparkle:shortVersionString>0.2</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/naveennaidu/koach-release/releases/latest/download/Koach.dmg" length="1072497" type="application/octet-stream" sparkle:edSignature="FRWq/bSPciFkhdLUjpc1PzK36QkarySxk9LDyNNMZg9w2NxGpvSG5bw/2xCNkiHs0OL/61wcgu120nespaNSDQ=="/>
+        </item>
+        <item>
             <title>0.1</title>
             <pubDate>Sat, 17 Feb 2024 17:05:03 +0530</pubDate>
             <sparkle:version>2</sparkle:version>
