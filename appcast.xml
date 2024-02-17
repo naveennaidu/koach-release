@@ -1,6 +1,14 @@
 <?xml version="1.0" standalone="yes"?>
 <rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
     <channel>
-        <title>Koach</title>
+        <title>koach</title>
+        <item>
+            <title>0.1</title>
+            <pubDate>Sat, 17 Feb 2024 17:05:03 +0530</pubDate>
+            <sparkle:version>2</sparkle:version>
+            <sparkle:shortVersionString>0.1</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/naveennaidu/koach-release/releases/latest/download/Koach.dmg" length="1068931" type="application/octet-stream" sparkle:edSignature="f5CjRkLHfRh/ELWw74GbxE1gyTvkhojg0wF7fiKFVHFmG6gSRFVPmdU5OMZ9Qeq4NEbWVK8Jl3K6G5KrONQgBQ=="/>
+        </item>
     </channel>
 </rss>
