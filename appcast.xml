@@ -1,22 +1,14 @@
 <?xml version="1.0" standalone="yes"?>
 <rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
     <channel>
-        <title>koach</title>
+        <title>ScreenTimePlus</title>
         <item>
-            <title>0.2</title>
-            <pubDate>Sat, 17 Feb 2024 18:31:00 +0530</pubDate>
-            <sparkle:version>3</sparkle:version>
-            <sparkle:shortVersionString>0.2</sparkle:shortVersionString>
+            <title>0.3</title>
+            <pubDate>Sun, 18 Feb 2024 12:54:51 +0530</pubDate>
+            <sparkle:version>4</sparkle:version>
+            <sparkle:shortVersionString>0.3</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/naveennaidu/koach-release/releases/latest/download/Koach.dmg" length="1072497" type="application/octet-stream" sparkle:edSignature="FRWq/bSPciFkhdLUjpc1PzK36QkarySxk9LDyNNMZg9w2NxGpvSG5bw/2xCNkiHs0OL/61wcgu120nespaNSDQ=="/>
-        </item>
-        <item>
-            <title>0.1</title>
-            <pubDate>Sat, 17 Feb 2024 17:05:03 +0530</pubDate>
-            <sparkle:version>2</sparkle:version>
-            <sparkle:shortVersionString>0.1</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/naveennaidu/koach-release/releases/latest/download/Koach.dmg" length="1068931" type="application/octet-stream" sparkle:edSignature="f5CjRkLHfRh/ELWw74GbxE1gyTvkhojg0wF7fiKFVHFmG6gSRFVPmdU5OMZ9Qeq4NEbWVK8Jl3K6G5KrONQgBQ=="/>
+            <enclosure url="https://github.com/naveennaidu/koach-release/releases/latest/download/ScreenTimePlus.dmg" length="1072614" type="application/octet-stream" sparkle:edSignature="YSLA7DRy2wfo6Stii2D4jAZbjDkHiH+77y/ySsmN7SRjWMoKD66SFzxAesI3AU+Sr7cISZqxNsOWThfPYv04AQ=="/>
         </item>
     </channel>
 </rss>
