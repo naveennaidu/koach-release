@@ -3,6 +3,14 @@
     <channel>
         <title>ScreenTimePlus</title>
         <item>
+            <title>0.7</title>
+            <pubDate>Sat, 02 Mar 2024 12:17:08 +0530</pubDate>
+            <sparkle:version>8</sparkle:version>
+            <sparkle:shortVersionString>0.7</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/naveennaidu/koach-release/releases/latest/download/ScreenTimePlus.dmg" length="1307877" type="application/octet-stream" sparkle:edSignature="PIienGe9+brKcL846h/X1cF0NewZlp5H2QIv1+GtXodv2qm0sCcybhEluV9oZg8xL1AjeIyWKGvsQFWTgDmaBg=="/>
+        </item>
+        <item>
             <title>0.6</title>
             <pubDate>Wed, 21 Feb 2024 08:54:50 +0530</pubDate>
             <sparkle:version>7</sparkle:version>
@@ -17,14 +25,6 @@
             <sparkle:shortVersionString>0.5</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
             <enclosure url="https://github.com/naveennaidu/koach-release/releases/latest/download/ScreenTimePlus.dmg" length="1304916" type="application/octet-stream" sparkle:edSignature="vrmmqdNNEx9aHwUc60zFQt51pZDRaxwICdC5Ju2KvXmd5T/SHgcZ/7kj/KWOY0wj2cmR8waYji8M5Dw18cyWCA=="/>
-        </item>
-        <item>
-            <title>0.4</title>
-            <pubDate>Sun, 18 Feb 2024 20:41:04 +0530</pubDate>
-            <sparkle:version>5</sparkle:version>
-            <sparkle:shortVersionString>0.4</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/naveennaidu/koach-release/releases/latest/download/ScreenTimePlus.dmg" length="1094092" type="application/octet-stream" sparkle:edSignature="9F/giBRMyIOWC0GCRn3B23183fmfVPMgr/s4InIFSt16ReYt400a7NDyINArVM3TZvXSSRXa/2xiJh5CChuFCw=="/>
         </item>
     </channel>
 </rss>
